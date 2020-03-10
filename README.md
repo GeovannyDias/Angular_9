@@ -8,3 +8,4 @@ Angular 9 - Several topics
 * **https://www.soydemarketing.com/como-enviar-notificaciones-push-desde-firebase.htm**
 * **https://fireship.io/lessons/push-messages-with-firestore/**
 * **https://dev.to/mayurkadampro/angular-8-firebase-cloud-messaging-push-notifications-97a**
+* **https://itnext.io/push-notification-with-angular-net-core-a2280d18eda1**
