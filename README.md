@@ -14,4 +14,5 @@ Angular 9 - Several topics
 * **https://blog.angular-university.io/angular-push-notifications/**
 * **https://github.com/angular-university/angular-pwa-course/tree/1-notifications-finished**
 
-
+# Firebase javascript SDK angular 8 to receive fcm notifications
+* **https://github.com/firebase/quickstart-js/issues/370**
